@@ -1,0 +1,14 @@
+{
+  "name": "notify-web-server",
+  "version": "0.1.0",
+  "description": "Web Server for notify app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Tabone <taboneluca3@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
